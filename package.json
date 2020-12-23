@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "styled-components": "latest",
+    "seedrandom": "latest",
+    "regl-worldview": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "polygon-generator": "latest",
+    "@cruise-automation/hooks": "latest"
+  },
+  "name": "ruxr4",
+  "description": null,
+  "version": "0.0.13",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "styled-components": "latest",
+    "seedrandom": "latest",
+    "regl-worldview": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "polygon-generator": "latest",
+    "@cruise-automation/hooks": "latest"
+  }
+}
